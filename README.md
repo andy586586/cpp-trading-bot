@@ -7,4 +7,4 @@ Mainly used for banchmarking and testing against other methods of ingestion and 
 Currently working on a custom data structure for use in order ingestion, which is still in testing and development phases.
 The custom datastructure will attempt to have the properties of a priority-queue and circular buffer, to efficiently perform operations and calculations on the order while in pending states.
 
-Many parts of the project are visible available on the public repo.
+Many parts of the project are not visible on this public repo.
